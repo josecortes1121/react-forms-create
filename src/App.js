@@ -1,10 +1,10 @@
-import ReacTV from './pages/reactv.page';
+import ReactCup from './pages/reactCup.page';
 import './App.css';
 
 function App() {
   return (
     <div className="App-header">
-      <ReacTV/>
+      <ReactCup/> 
     </div>
   );
 }

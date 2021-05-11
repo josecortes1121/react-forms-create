@@ -1,9 +1,9 @@
 import React, { useState } from 'react';
 import logo from './logo.svg';
 import GeneralContainer from './components/general-container/general-container.comp';
-import './reactv.style.css';
+import './reactCup.style.css';
 
-const ReacTV = () => {
+const ReactCup = () => {
 
     let cupList = [
 
@@ -64,10 +64,10 @@ const ReacTV = () => {
     return (
         <div>
             <div >
-                <div className="reactv-container">
+                <div className="reactCup-container">
                     ReactCUP
                 </div>
-                <div className="reactv-container">
+                <div className="reactCup-container">
                     <p>"Thropy history in </p>
                     <img src={logo} className="App-logo" alt="logo" />
                     <p> the world socccer"</p>
@@ -83,4 +83,4 @@ const ReacTV = () => {
         </div>
     );
 }
-export default ReacTV;
+export default ReactCup;
