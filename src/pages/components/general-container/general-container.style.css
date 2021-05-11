@@ -1,0 +1,16 @@
+.general-container{
+    width: 100%;
+    margin: auto;
+    float: left;
+    background-color: rgb(140 139 124 / 82%);
+    border-radius: 20px;
+    margin: 50px 0;
+    padding: 50px 0;
+    
+}
+.fontTitle{
+    font-size: larger;
+    font-weight: bolder;
+    font-style: oblique;
+    text-align: center;
+}

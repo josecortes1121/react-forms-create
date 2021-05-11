@@ -1,0 +1,21 @@
+.objects-container{
+    width: 400px;
+    min-height: 390px;
+
+    margin-top: 10px;
+    margin-left: 50px;
+    margin-right: 40px;
+    float: left;     
+
+}
+.products-forms{
+    width: 300px;
+    margin: auto;
+    min-height: 390px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color:rgb(173, 228, 245);
+    float: left;
+    
+}

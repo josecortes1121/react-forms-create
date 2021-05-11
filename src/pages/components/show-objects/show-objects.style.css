@@ -1,0 +1,15 @@
+.show-objects{   
+    display: flex;
+    justify-content: space-between;
+    padding: 0 10px;
+    text-align: left;
+    margin-bottom: 2px;  
+    background-color:rgb(225, 232, 255);
+
+}
+
+.product-without-stock{   
+   color: red;   
+   font-weight: bold;
+
+}
